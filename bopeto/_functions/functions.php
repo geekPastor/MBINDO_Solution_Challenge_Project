@@ -1,7 +1,7 @@
 <?php
 
     /**
-     * str_secure
+     * str_secure nous aide a securiser une chaine venant d'un utilisateur quelconque
      *
      * @param  mixed $var
      * @return void
@@ -13,7 +13,7 @@
     }
 
     /**
-     * debug
+     * debug Dans notre etape de developpement vas nous aider a comprendre le flux de donnees dans notre projet
      *
      * @param  mixed $var
      * @return void
