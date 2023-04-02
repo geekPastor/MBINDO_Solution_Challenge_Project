@@ -5,7 +5,6 @@
 
     Autoloader::register();
 
-    //On verfifie si la variable $page existe et n'est pas vide et c'est elle qui nous aideras a determiner la page ou l'utilisateur veux se rendre
     //Definition de la page courante
 
     if (isset($_GET['page']) AND !empty($_GET['page'])) {
