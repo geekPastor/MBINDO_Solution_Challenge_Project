@@ -25,3 +25,30 @@ And our solution has 3 parts :
 <strong>The IoT part, <br/>
 Mobile part<br/>
 And the Desktop part</strong>
+
+
+For the <strong>Iot </strong> part, we have a smart bin equipped with an ultrasonic sensor and a USP32 coulter
+
+The <strong>Mobile</strong> part is reserved for customers (individuals) and for the garbage collectors service
+
+<strong>For the customers</strong> :
+
+He can see the status of the trash can,
+Know the level of the trash can
+
+
+<strong>For the scavenger</strong> :
+
+He can see the status of the bins affiliated with the services
+See the route to the nearest full bin
+
+
+The <strong>Desktop</strong> part is reserved for the central (at the service of the garbage collectors)
+They can see all trash cans and geolocations
+They can see the numbers of customers affiliated with the services and see the status of all the bins to dispatch a nearest team to empty the different bins
+
+## This solution will help improve dirt management and prevent many dirt-related diseases.
+
+This is the presentation of our solution
+
+We hope to have a favorable response from you, thank you
