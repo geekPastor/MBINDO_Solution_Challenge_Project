@@ -16,9 +16,12 @@ And we wanted to remedy this problem by proposing a digital solution that we cal
 
 For our solution, we have chosen to respond to 2 United Nations Sustainable Development Goals 17
 
-<b>The 3rd goal: Good health and well-beingM</b>
+<b>The 3rd goal: Good health and well-beingM</b> <br/>
 <b>And Goal 6: Clean Water and Sanitation</b>
 
 BOPETO is an application that will allow the quick and easy management of dirt in our city
 
-And our solution has 3 parts
+And our solution has 3 parts :
+<strong>The IoT part, <br/>
+Mobile part<br/>
+And the Desktop part</strong>
