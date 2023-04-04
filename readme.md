@@ -14,6 +14,9 @@ In the Democratic Republic of the Congo (as in several African countries) waste 
 <img src="./imgs/img1.jpg">
 <img src="./imgs/img2.jpg">
 <img src="./imgs/img3.jpg">
+<img src="./imgs/img4.jpg">
+<img src="./imgs/img5.jpg">
+<img src="./imgs/img6.jpg">
 
 
 And we wanted to remedy this problem by proposing a digital solution that we called MBINDO
