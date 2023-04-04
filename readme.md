@@ -11,6 +11,10 @@ We are a team of students from the salama computer science school, we currently 
 And we are candidates for the google solution challenge and our solution is called MBINDO
 
 In the Democratic Republic of the Congo (as in several African countries) waste management is really a difficult thing, people live in an unhealthy environment and this is the cause of several diseases, including malaria, typhoid fever, cholera, etc. ...
+<img src="./imgs/img1.jpg">
+<img src="./imgs/img2.jpg">
+<img src="./imgs/img3.jpg">
+
 
 And we wanted to remedy this problem by proposing a digital solution that we called MBINDO
 
@@ -47,6 +51,7 @@ The <strong>Desktop</strong> part is reserved for the central (at the service of
 They can see all trash cans and geolocations
 They can see the numbers of customers affiliated with the services and see the status of all the bins to dispatch a nearest team to empty the different bins
 
+<img src="./imgs/presentation.jpeg">
 ## This solution will help improve dirt management and prevent many dirt-related diseases.
 
 This is the presentation of our solution
