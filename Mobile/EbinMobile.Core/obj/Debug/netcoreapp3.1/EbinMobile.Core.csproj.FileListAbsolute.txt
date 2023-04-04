@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\bin\Debug\netcoreapp3.1\EbinMobile.Core.deps.json
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\bin\Debug\netcoreapp3.1\EbinMobile.Core.dll
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\obj\Debug\netcoreapp3.1\EbinMobile.Core.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\obj\Debug\netcoreapp3.1\EbinMobile.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\obj\Debug\netcoreapp3.1\EbinMobile.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\bin\Debug\netcoreapp3.1\EbinMobile.Core.pdb
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\obj\Debug\netcoreapp3.1\EbinMobile.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\obj\Debug\netcoreapp3.1\EbinMobile.Core.dll
+C:\Users\hp\source\repos\EbinMobile\EbinMobile.Core\obj\Debug\netcoreapp3.1\EbinMobile.Core.pdb
